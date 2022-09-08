@@ -19,7 +19,11 @@
   },
   "repository": {
     "type": "git",
+<<<<<<< HEAD
     "url": "https://unicorn-hyh.github.io/"
+=======
+    "url": "https://github.com/unicorn-hyh/unicorn-hyh.github.io"
+>>>>>>> 17a24424a757dc1597c03f1e9bd71e7667c4b670
   },
   "keywords": [
     "gulp",
