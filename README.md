@@ -1,4 +1,4 @@
-# Confession
+# Profession
 
 给小可爱的表白[情书](https://unicorn-hyh.github.io/)💌
 
